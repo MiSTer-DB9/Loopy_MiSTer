@@ -1,6 +1,6 @@
 # Casio Loopy MiSTer
 
-The Casio Loopy, the world's cutest game console. This core supports save states and all the games in the library. Magical Shop will run, but does not support composite input because, well, there is no way to input composite video. Stickers can print to a preview windows, but there isn't a way to save them.
+The Casio Loopy, the world's cutest game console. This core supports save states and all the games in the library. Magical Shop will run, but does not support composite input because, well, there is no way to input composite video. Stickers can print to a preview windows, but there isn't a way to save them. This core will support either big-endian or little-endian roms, but they must be single combined files, not split.
 
 ## BIOS files
 
